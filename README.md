@@ -65,8 +65,8 @@
 ## Установка и запуск
 
 ```bash
-git clone <ваш-репозиторий>
-cd <папка-проекта>
+git clone https://github.com/Pewter71/MAI-python-lab8
+cd MAI-python-lab8
 ```
 
 Установка зависимостей:

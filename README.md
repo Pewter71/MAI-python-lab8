@@ -65,7 +65,7 @@
 ## Установка и запуск
 
 ```bash
-git clone https://github.com/Pewter71/MAI-python-lab8
+git clone https://github.com/Pewter71/MAI-python-lab8.git
 cd MAI-python-lab8
 ```
 
